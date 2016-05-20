@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Рейтинг працівників кафедри</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_refresh">Оновити</string>
+    <string name ="action_login">Увійти в Dropbox</string>
+    <string name ="action_logout">Вийти з Dropbox</string>
+    <string name ="action_downloadfav">Завантажити обрані</string>
+    <string name="action_uploadfav">Вінвантажити обрані</string>
+    <string name="title_activity_calc">CalcActivity</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>
